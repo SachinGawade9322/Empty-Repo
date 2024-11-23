@@ -1,0 +1,15 @@
+Flask
+Flask-SQLAlchemy
+Flask-Cors
+Flask-JWT-Extended
+psycopg2
+python-dotenv
+
+
+
+pandas
+numpy
+matplotlib
+torch
+minisom
+scikit-learn
